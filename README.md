@@ -1,3 +1,4 @@
+[![Actions Status](https://github.com/loqimean/monobank_webhook_sign_verification/actions/workflows/ci.yml/badge.svg)](https://github.com/loqimean/monobank_webhook_sign_verification/actions)
 # A ruby example of Monobank API webhook sign verification
 An example of Ruby code of Monobank API webhook sign verification.
 
