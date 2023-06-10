@@ -7,7 +7,7 @@ It's an example of Ruby code for [Monobank API webhook sign verification](https:
 2. Go to the repo folder
 3. Run:
 ```bash
-ruby main.rb
+ruby lib/main.rb
 ```
 
 The output should be:
